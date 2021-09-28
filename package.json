@@ -7,10 +7,6 @@
     "dev":"nodemon app.js",
     "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bernardo607/tp-meli-digital-house.git"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
